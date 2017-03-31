@@ -3,5 +3,5 @@
 
 Instructions:
 <ul>
-<li>open using browser index.html</li>
+<li>open using browser any. html file</li>
 </ul>
