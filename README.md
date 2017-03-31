@@ -1,2 +1,7 @@
 # WebDevWeek1Day2
-Testing Git, HTML, CSS
+</p>Testing Git, HTML, CSS</p>
+
+Instructions:
+<ul>
+<li>open using browser index.html</li>
+</ul>
